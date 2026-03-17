@@ -27,7 +27,7 @@ It allows users to:
 
 ## 📊 Dataset Information
 
-The dataset contains real-world data science job data from 2023, including:
+The dataset contains real-world data science job data, including:
 
 * 👨‍💼 Job titles
 * 💰 Salaries
